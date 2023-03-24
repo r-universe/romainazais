@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cvmgof"]
+	path = cvmgof
+	url = https://github.com/cran/cvmgof
+	shallow = true
+	registered = true
